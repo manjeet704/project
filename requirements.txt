@@ -1,5 +1,16 @@
+<<<<<<< HEAD
 flask
 flask_cors
 requests
 bs4
 pymongo
+=======
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+>>>>>>> a7e131d (Initial upload)
